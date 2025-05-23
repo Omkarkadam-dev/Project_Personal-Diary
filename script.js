@@ -4,19 +4,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 document.addEventListener("DOMContentLoaded", function () {
-  lucide.createIcons();
+    lucide.createIcons();
 });
 
 
 document.addEventListener("DOMContentLoaded", function () {
-  lucide.createIcons();
+    lucide.createIcons();
 });
 
 document.addEventListener("DOMContentLoaded", () => {
-  lucide.createIcons();
+    lucide.createIcons();
 });
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  lucide.createIcons();
+    lucide.createIcons();
 });
